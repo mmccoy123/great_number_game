@@ -1,0 +1,49 @@
+#container {
+	width: 100%;
+}
+
+h1, p, form {
+	text-align: center;
+	width: auto;
+}
+
+input {
+	width: 80px;
+	text-align: center;
+}
+
+#submit {
+	text-align: center;
+	width: auto;
+	margin-top: 10px;
+}
+
+.wrong_response {
+	background-color: red;
+	width: 150px;
+	height: 110px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	margin: 20px auto;
+	padding: 20px;
+	padding-top: 40px;
+	font-size: 1.5em;
+	border: 2px solid black;
+}
+
+.correct_response {
+	background-color: green;
+	width: 150px;
+	height: 110px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	margin: 20px auto;
+	padding: 20px;
+	padding-top: 40px;
+	font-size: 1.5em;
+	border: 2px solid black;
+}
+
+
